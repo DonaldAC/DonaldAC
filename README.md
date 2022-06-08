@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Donald Anthony Chiaye.
 
-I'm a full-stack Developer from Dubai, with a strong focus on security.
+I'm a software Developer from Dubai, with a strong focus on security.
 
 Passions / specialities: Motorsports, NodeJs, TypeScript, Bug hunter and Ethical hacker.
 
