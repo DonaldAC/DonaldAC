@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=440&height=55&lines=Senior+Back-End+Developer;Full-Stack+(MEAN+stack)+Developer;Always+Learning" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=440&height=55&lines=NodeJs+Back-End+Developer;MEAN stack++Developer;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
 <!-- ### Hi, I'm Donald Anthony Chiaye.
@@ -21,4 +21,4 @@ I offer a variety of services to build efficient and strong scalable application
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=donaldAC" alt="DonaldAC" /></p>
 
 
-More about me on my website: https://donaldchiaye.me/
+<!-- More about me on my website: https://donaldchiaye.me/ -->
