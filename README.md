@@ -1,10 +1,3 @@
-<a href="https://donaldanthony.dev">
-  <img
-    alt="Building the Global Village"
-    src="https://github.com/DonaldAC/DonaldAC/blob/main/github-banner.png?raw=true"
-  />
-</a>
-
 <!--
   This file goes in the special profile repo: github.com/DonaldAC/DonaldAC
   Save it as README.md at the repo root and it will render on your profile page.
