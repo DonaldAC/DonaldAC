@@ -1,11 +1,10 @@
 <!--
   This file goes in the special profile repo: github.com/DonaldAC/DonaldAC.
 -->
-![Building the Global Village](https://github.com/DonaldAC/DonaldAC/raw/main/github-banner.png?raw=true)
 
 ### Hi, I'm Donald 👋
 
-Senior Software Engineer building **backend** and **distributed systems** across digital banking, Web3, and gaming. Currently shipping production code at **Emirates NBD** (via HCLTech) on the **LIV Crypto** platform and the bank's **Open Finance** APIs.
+Senior Software Engineer building **backend** and **distributed systems** across digital banking, Web3, and gaming. Currently shipping production code at **Emirates NBD**.
 
 🇦🇪 Based in Dubai, UAE.
 
